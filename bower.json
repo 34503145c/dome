@@ -1,0 +1,26 @@
+{
+  "name": "laravel_5",
+  "description": "哈哈",
+  "main": "abc",
+  "authors": [
+    "czj <ChenZhijun@ecwale.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ddd"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/assets/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.4.0",
+    "vue": "^2.6.10"
+  }
+}
